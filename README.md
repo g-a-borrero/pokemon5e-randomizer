@@ -3,4 +3,4 @@ Randomize Pokemon for Pokemon5e
 
 ## Can I run it in command line?
 
-Yep. Just run `python pokemon_randomizer.py`.
+Yep. Just run download the repo and run `python pokemon_randomizer.py` from the file directory.
