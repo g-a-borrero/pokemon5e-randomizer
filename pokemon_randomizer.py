@@ -3,7 +3,7 @@ import copy
 import json
 
 class Pokemon:
-	with open("meta.json") as f:
+	with open("assets/meta.json") as f:
 		json_file = json.load(f)
 	pokemon = json_file["pokemon"]
 	abilities = json_file["abilities"]
